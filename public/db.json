@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Image Converter",
+    "description": "Converta imagens entre diferentes formatos como PNG, JPG, WEBP.",
+    "url": "https://imageconverter.com",
+    "category": "Imagens"
+  },
+  {
+    "id": 2,
+    "name": "CSS Gradient Generator",
+    "description": "Ferramenta para criar gradientes CSS de forma visual.",
+    "url": "https://cssgradient.io",
+    "category": "CSS"
+  },
+  {
+    "id": 3,
+    "name": "JSON Formatter",
+    "description": "Formate e valide JSON de forma rápida.",
+    "url": "https://jsonformatter.org",
+    "category": "JSON"
+  },
+  {
+    "id": 4,
+    "name": "TinyPNG",
+    "description": "Comprime imagens PNG e JPG para web.",
+    "url": "https://tinypng.com",
+    "category": "Imagens"
+  },
+  {
+    "id": 5,
+    "name": "Flexbox Froggy",
+    "description": "Jogo interativo para aprender Flexbox em CSS.",
+    "url": "https://flexboxfroggy.com",
+    "category": "CSS"
+  },
+  {
+    "id": 6,
+    "name": "SEO Analyzer",
+    "description": "Ferramenta para análise de SEO",
+    "url": "https://seoanalyzer.com",
+    "category": "SEO"
+  },
+   {
+    "id": 7,
+    "name": "Color Hunt",
+    "description": "Paletas de cores gratuitas para designers e desenvolvedores.",
+    "url": "https://colorhunt.co/",
+    "category": "Design"
+  }
+]
